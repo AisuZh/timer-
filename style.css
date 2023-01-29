@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: black;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+
+.box {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.time {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.buttons{
+    margin-top: 30px;
+}
+.start {
+    background-color: green;
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 10px ;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.stop {
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 10px ;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.reset {
+    background-color: gray;
+    font-size: 30px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 10px ;
+    font-family:'Times New Roman', Times, serif
+}
